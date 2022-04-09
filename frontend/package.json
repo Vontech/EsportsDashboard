@@ -13,7 +13,7 @@
     "d3-ease": "^1.0.5",
     "d3-hierarchy": "^1.1.9",
     "interactjs": "^1.9.10",
-    "moment": "^2.23.0",
+    "moment": "^2.29.2",
     "react": "^16.7.0",
     "react-app-rewired": "^2.1.6",
     "react-archer": "^2.0.1",
